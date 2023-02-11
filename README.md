@@ -32,8 +32,8 @@ pip install -r requirements.txt
 4. Create a **`config.py`** file in the project directory with the following contents:
 
 ```
-API_KEY = "YOUR_API_KEY"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+YOUR_OAPI_KEY = "YOUR_API_KEY"
+YOUR_TBOT_TOKEN = "YOUR_BOT_TOKEN"
 ```
 
 Replace **`YOUR_API_KEY`** with your OpenAI API key, and **`YOUR_BOT_TOKEN`** with the token for your Telegram bot.
