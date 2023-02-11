@@ -1,0 +1,2 @@
+YOUR_OAPI_KEY = " "
+YOUR_TBOT_TOKEN = " "
